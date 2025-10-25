@@ -45,16 +45,6 @@ I'm a passionate **Full Stack Developer** from India with a deep interest in **B
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=UjjwalCodes01&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/UjjwalCodes01)
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
